@@ -5,5 +5,5 @@ This is the authorization and authentication service used by Meizon Services and
 Take note the administrative password and username is listed below. 
 
 ***username:*** *developer@meizon.org.zw*
-***password:*** *IUX8zlfq3ZO3gvpNqB9iuZaHC0KZJ81h*
+***password:*** *IUX8zlfq3ZO3gvpNqB6iuZaHC0KZJ81h*
 
